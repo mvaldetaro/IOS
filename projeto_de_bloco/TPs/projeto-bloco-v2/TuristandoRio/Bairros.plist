@@ -1,0 +1,502 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bairros</key>
+	<array>
+		<dict>
+			<key>nome</key>
+			<string>Centro</string>
+			<key>pontos</key>
+			<array>
+				<dict>
+					<key>nome</key>
+					<string>Centro Cultural Banco do Brasil</string>
+					<key>image</key>
+					<string>img_ccbb.jpg</string>
+					<key>description</key>
+					<string>Galerias de arte, cinema e teatro em prédio neoclássico construído em 1906, administrado pelo Banco do Brasil.</string>
+					<key>address</key>
+					<string>Rua Primeiro de Março, 66 - Centro, Rio de Janeiro - RJ</string>
+					<key>tipo</key>
+					<string>Centro cultural</string>
+					<key>nota</key>
+					<string>4.8</string>
+					<key>telefone</key>
+					<string>(21) 3808-2020</string>
+				</dict>
+				<dict>
+					<key>nome</key>
+					<string>Biblioteca Nacional</string>
+					<key>image</key>
+					<string>img_bn.jpg</string>
+					<key>description</key>
+					<string>É a depositária do patrimônio bibliográfico e documental do Brasil</string>
+					<key>address</key>
+					<string>Av. Rio Branco, 219 - Centro, Rio de Janeiro - RJ</string>
+					<key>tipo</key>
+					<string>Biblioteca</string>
+					<key>nota</key>
+					<string>4.7</string>
+					<key>telefone</key>
+					<string>(21) 3095-3977</string>
+				</dict>
+				<dict>
+					<key>nome</key>
+					<string>Teatro Municipal</string>
+					<key>image</key>
+					<string>img_tm.jpg</string>
+					<key>description</key>
+					<string>Inaugurado em 1909, como parte do conjunto arquitetônico das Obras de Reurbanização da Cidade do Rio de Janeiro</string>
+					<key>address</key>
+					<string>Praça Floriano - Centro, Rio de Janeiro - RJ</string>
+					<key>tipo</key>
+					<string>Teatro</string>
+					<key>nota</key>
+					<string>4.5</string>
+					<key>telefone</key>
+					<string>(21) 4003-2330</string>
+				</dict>
+				<dict>
+					<key>nome</key>
+					<string>Amarelinho</string>
+					<key>image</key>
+					<string>img_amarelinho.jpg</string>
+					<key>description</key>
+					<string>Petiscos, churrasco, pizzas e mais, em choperia tradicional com toldo verde sobre a calçada da praça.</string>
+					<key>address</key>
+					<string>Praça Floriano, 55 - B - Centro, Rio de Janeiro - RJ</string>
+					<key>tipo</key>
+					<string>Choperia</string>
+					<key>nota</key>
+					<string>3.3</string>
+					<key>telefone</key>
+					<string>(21) 3549-3311</string>
+				</dict>
+				<dict>
+					<key>nome</key>
+					<string>Confeitaria Colombo</string>
+					<key>image</key>
+					<string>img_colombo.jpg</string>
+					<key>description</key>
+					<string>Café francês histórico decorado com o requinte da época, com vitrais, espelhos, e menu de doces finos e chás.</string>
+					<key>address</key>
+					<string>Rua Gonçalves Dias, 32 - Centro, Rio de Janeiro - RJ</string>
+					<key>tipo</key>
+					<string>Choperia</string>
+					<key>nota</key>
+					<string>4.4</string>
+					<key>telefone</key>
+					<string>21) 2505-1500</string>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>nome</key>
+			<string>Lapa</string>
+			<key>pontos</key>
+			<array>
+				<dict>
+					<key>nome</key>
+					<string>Arcos da Lapa</string>
+					<key>image</key>
+					<string>img_arcos_lapa.jpg</string>
+					<key>description</key>
+					<string>Considerada como a obra arquitetônica de maior porte empreendida no Brasil durante o período colonial</string>
+					<key>address</key>
+					<string>Rua da Lapa, 41 - Centro, Rio de Janeiro - RJ,20021-170</string>
+					<key>tipo</key>
+					<string>Ponte</string>
+					<key>nota</key>
+					<string>4.1</string>
+					<key>telefone</key>
+					<string></string>
+				</dict>
+				<dict>
+					<key>nome</key>
+					<string>Gohan Restaurante Natural &amp; Sushi Bar</string>
+					<key>image</key>
+					<string>img_gohan.jpg</string>
+					<key>description</key>
+					<string>Toques brasileiros acompanham o cardápio trivial japonês e chinês, em espaço confortável com tons orientais.</string>
+					<key>address</key>
+					<string>Rua Joaquim Silva, 127 - Lapa, Rio de Janeiro - RJ</string>
+					<key>tipo</key>
+					<string>Restaurante de comida natural</string>
+					<key>nota</key>
+					<string>4.7</string>
+					<key>telefone</key>
+					<string>(21) 2232-0479</string>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>nome</key>
+			<string>São Cristovão</string>
+			<key>pontos</key>
+			<array>
+				<dict>
+					<key>nome</key>
+					<string>Quinta da Boa Vista</string>
+					<key>image</key>
+					<string>img_boa_vista.jpg</string>
+					<key>description</key>
+					<string>Constitui-se atualmente em um complexo paisagístico público de grande valor histórico.</string>
+					<key>address</key>
+					<string>Av. Pedro II, s/n - São Cristovão, Rio de Janeiro - RJ</string>
+					<key>tipo</key>
+					<string>Parque</string>
+					<key>nota</key>
+					<string>4.4</string>
+					<key>telefone</key>
+					<string></string>
+				</dict>
+				<dict>
+					<key>nome</key>
+					<string>Feira de São Cristovão</string>
+					<key>image</key>
+					<string>img_feira_sc.jpg</string>
+					<key>description</key>
+					<string>Pavilhão que promove a cultura e o comércio de produtos nordestinos</string>
+					<key>address</key>
+					<string>Campo de São Cristóvão, s/n - São Cristóvão, Rio de Janeiro - RJ</string>
+					<key>tipo</key>
+					<string>Centro de Eventos</string>
+					<key>nota</key>
+					<string>4.6</string>
+					<key>telefone</key>
+					<string>(21) 2580-6946</string>
+				</dict>
+				<dict>
+					<key>nome</key>
+					<string>Jardim Zoológico </string>
+					<key>image</key>
+					<string>img_zoologico.jpg</string>
+					<key>description</key>
+					<string>Pavilhão que promove a cultura e o comércio de produtos nordestinos</string>
+					<key>address</key>
+					<string>Parque da Quinta da Boa Vista, S/N - São Cristovão, Rio de Janeiro - RJ</string>
+					<key>tipo</key>
+					<string>Zoológico</string>
+					<key>nota</key>
+					<string>4.0</string>
+					<key>telefone</key>
+					<string>(21) 3878-4219</string>
+				</dict>
+				<dict>
+					<key>nome</key>
+					<string>Museu Nacional</string>
+					<key>image</key>
+					<string>img_mn.jpg</string>
+					<key>description</key>
+					<string>Criado em 1818, é o maior museu de história natural e antropológica da América latina e faz pesquisas</string>
+					<key>address</key>
+					<string>Parque da Quinta da Boa Vista, S/N - São Cristovão, Rio de Janeiro - RJ</string>
+					<key>tipo</key>
+					<string>Museu</string>
+					<key>nota</key>
+					<string>4.2</string>
+					<key>telefone</key>
+					<string>(21) 3938-6900</string>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>nome</key>
+			<string>Benfica</string>
+			<key>pontos</key>
+			<array>
+				<dict>
+					<key>nome</key>
+					<string>Mercado Municipal do RJ - CADEG</string>
+					<key>image</key>
+					<string>img_cadeg.jpg</string>
+					<key>description</key>
+					<string>Além da comercialização de produtos no atacado, o CADEG oferece boas opções de diversão, com bares e restaurantes que tem atraído cada vez mais visitantes</string>
+					<key>address</key>
+					<string>Rua Capitão Félix, 110 - Benfíca, Rio de Janeiro - RJ, 20920-310</string>
+					<key>tipo</key>
+					<string>Mercado Municipal</string>
+					<key>nota</key>
+					<string>4.3</string>
+					<key>telefone</key>
+					<string>(21) 3890-0202</string>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>nome</key>
+			<string>Urca</string>
+			<key>pontos</key>
+			<array>
+				<dict>
+					<key>nome</key>
+					<string>Pão de Açucar</string>
+					<key>image</key>
+					<string>img_pao_acucar.jpg</string>
+					<key>description</key>
+					<string>Pelas características únicas, margeado pelas águas da baía de Guanabara, constitui-se em uma referência turística internacional para a cidade.</string>
+					<key>address</key>
+					<string>Morro da Urca - Av. Pasteur, 520 - Urca, Rio de Janeiro - RJ</string>
+					<key>tipo</key>
+					<string>Atração turística</string>
+					<key>nota</key>
+					<string>4.8</string>
+					<key>telefone</key>
+					<string>(21) 2546-8433</string>
+				</dict>
+				<dict>
+					<key>nome</key>
+					<string>Fortaleza de São João</string>
+					<key>image</key>
+					<string>img_sao_joao.jpg</string>
+					<key>description</key>
+					<string>Sede do Centro de Capacitação Física do Exército</string>
+					<key>address</key>
+					<string>Av. João Luís Alves - Urca, Rio de Janeiro - RJ</string>
+					<key>tipo</key>
+					<string>Fortaleza</string>
+					<key>nota</key>
+					<string>4.8</string>
+					<key>telefone</key>
+					<string>(21) 2586-2203</string>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>nome</key>
+			<string>Botafogo</string>
+			<key>pontos</key>
+			<array>
+				<dict>
+					<key>nome</key>
+					<string>Museu Villa Lobos</string>
+					<key>image</key>
+					<string>img_villa_lobos.jpg</string>
+					<key>description</key>
+					<string>Museu do músico, compositor e multi-instrumentista Heitor Villa-Lobos</string>
+					<key>address</key>
+					<string>R. Sorocaba, 200 - Botafogo, Rio de Janeiro</string>
+					<key>tipo</key>
+					<string>Museu</string>
+					<key>nota</key>
+					<string>3.8</string>
+					<key>telefone</key>
+					<string>(21) 2226-9818</string>
+				</dict>
+				<dict>
+					<key>nome</key>
+					<string>Enseada de Botafogo</string>
+					<key>image</key>
+					<string>img_botafogo.jpg</string>
+					<key>description</key>
+					<string>É no calçadão em frente à enseada de Botafogo que o carioca têm uma das mais fantásticas vistas da cidade.</string>
+					<key>address</key>
+					<string>Praia de Botafogo, 136 - Botafogo, Rio de Janeiro - RJ</string>
+					<key>tipo</key>
+					<string>Praia</string>
+					<key>nota</key>
+					<string>4.8</string>
+					<key>telefone</key>
+					<string>(21) 2586-2203</string>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>nome</key>
+			<string>Flamengo</string>
+			<key>pontos</key>
+			<array>
+				<dict>
+					<key>nome</key>
+					<string>Oi Futuro</string>
+					<key>image</key>
+					<string>img_oi_futuro.jpg</string>
+					<key>description</key>
+					<string>Boas exposições, fácil acesso.</string>
+					<key>address</key>
+					<string>Rua Dois de Dezembro, 63 - Flamengo, Rio de Janeiro</string>
+					<key>tipo</key>
+					<string>Museu</string>
+					<key>nota</key>
+					<string>4.4</string>
+					<key>telefone</key>
+					<string>(21) 3131-3060</string>
+				</dict>
+				<dict>
+					<key>nome</key>
+					<string>Aterro do Flamengo</string>
+					<key>image</key>
+					<string>img_aterro_flamengo.jpg</string>
+					<key>description</key>
+					<string>Aterro do Flamengo é um complexo de lazer da cidade do Rio de Janeiro, no Brasil</string>
+					<key>address</key>
+					<string>Parque Brigadeiro Eduardo Gomes (Flamengo), Rio de Janeiro - RJ</string>
+					<key>tipo</key>
+					<string>Parque</string>
+					<key>nota</key>
+					<string>3.9</string>
+					<key>telefone</key>
+					<string>(21) 2586-2203</string>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>nome</key>
+			<string>Alto da Boa vista</string>
+			<key>pontos</key>
+			<array>
+				<dict>
+					<key>nome</key>
+					<string>Vista Chinesa</string>
+					<key>image</key>
+					<string>img_vista_chinesa.jpg</string>
+					<key>description</key>
+					<string>Mirante construído em estilo chinês com a mais bela paisagem da cidade</string>
+					<key>address</key>
+					<string>Estr. da Vista Chinesa, 1294 - Alto da Boa Vista, Rio de Janeiro - RJ</string>
+					<key>tipo</key>
+					<string>Atração turística</string>
+					<key>nota</key>
+					<string>4.7</string>
+					<key>telefone</key>
+					<string></string>
+				</dict>
+				<dict>
+					<key>nome</key>
+					<string>Parque Nacional da Tijuca</string>
+					<key>image</key>
+					<string>img_parque_nacional_tijuca.jpg</string>
+					<key>description</key>
+					<string>Fantástico para quem ama a natureza e fotografar belas paisagens</string>
+					<key>address</key>
+					<string>Estr. da Cascatinha, 850 - Alto da Boa Vista, Rio de Janeiro - RJ</string>
+					<key>tipo</key>
+					<string>Parque nacional</string>
+					<key>nota</key>
+					<string>4.5</string>
+					<key>telefone</key>
+					<string>(21) 2491-1700</string>
+				</dict>
+				<dict>
+					<key>nome</key>
+					<string>Cristo Redentor</string>
+					<key>image</key>
+					<string>img_cristo_redentor.jpg</string>
+					<key>description</key>
+					<string>Cristo Redentor é uma estátua art déco que retrata Jesus Cristo, localizada no topo do morro do Corcovado</string>
+					<key>address</key>
+					<string>Parque Nacional da Tijuca - Alto da Boa Vista, Rio de Janeiro - RJ</string>
+					<key>tipo</key>
+					<string>Estátua</string>
+					<key>nota</key>
+					<string>4.6</string>
+					<key>telefone</key>
+					<string></string>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>nome</key>
+			<string>Gávea</string>
+			<key>pontos</key>
+			<array>
+				<dict>
+					<key>nome</key>
+					<string>Planetário da Gávea</string>
+					<key>image</key>
+					<string>img_planetario.jpg</string>
+					<key>description</key>
+					<string>Sessões de cúpula, experimentos interativos, cursos, palestras e exposições no Planetário do Rio de Janeiro</string>
+					<key>address</key>
+					<string>Rua Vice-Governador Rúbens Berardo, 100 - Gávea, Rio de Janeiro - RJ</string>
+					<key>tipo</key>
+					<string>Planetário</string>
+					<key>nota</key>
+					<string>4.5</string>
+					<key>telefone</key>
+					<string>(21) 2274-0046</string>
+				</dict>
+				<dict>
+					<key>nome</key>
+					<string>Jockey Club Brasileiro</string>
+					<key>image</key>
+					<string>img_jcb.jpg</string>
+					<key>description</key>
+					<string>Sessões de cúpula, experimentos interativos, cursos, palestras e exposições no Planetário do Rio de Janeiro</string>
+					<key>address</key>
+					<string>Praça Santos Dumont, 31 - Gávea, Rio de Janeiro - RJ</string>
+					<key>tipo</key>
+					<string>Jóquei Clube</string>
+					<key>nota</key>
+					<string>4.4</string>
+					<key>telefone</key>
+					<string>(21) 3534-9000</string>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>nome</key>
+			<string>Jardim Botânico</string>
+			<key>pontos</key>
+			<array>
+				<dict>
+					<key>nome</key>
+					<string>Jardim Botânico </string>
+					<key>image</key>
+					<string>img_jardim_botanico.jpg</string>
+					<key>description</key>
+					<string>O parque histórico tem rica fauna e flora, museus, instituto de pesquisas e um lindo bosque para caminhada</string>
+					<key>address</key>
+					<string>R. Jardim Botânico, 1008 - Jardim Botânico, Rio de Janeiro - RJ</string>
+					<key>tipo</key>
+					<string>Jardim botânico</string>
+					<key>nota</key>
+					<string>4.6</string>
+					<key>telefone</key>
+					<string>(21) 3874-1808</string>
+				</dict>
+				<dict>
+					<key>nome</key>
+					<string>Parque Lage</string>
+					<key>image</key>
+					<string>img_parque_lage.jpg</string>
+					<key>description</key>
+					<string>Palmeiras imperiais e mata nativa, o local possui uma arquitetura exuberante e trilha que leva ao Corcovado.</string>
+					<key>address</key>
+					<string>R. Jardim Botânico, 414 - Jardim Botânico, Rio de Janeiro - RJ</string>
+					<key>tipo</key>
+					<string>Parque</string>
+					<key>nota</key>
+					<string>4.6</string>
+					<key>telefone</key>
+					<string>(21) 3257-1800</string>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>nome</key>
+			<string>Maracanã</string>
+			<key>pontos</key>
+			<array>
+				<dict>
+					<key>nome</key>
+					<string>Maracanã</string>
+					<key>image</key>
+					<string>img_maracana.jpg</string>
+					<key>description</key>
+					<string>O famoso gramado, é conhecido como templo do futebol, tendo recebido partidas históricas e grandes eventos.</string>
+					<key>address</key>
+					<string>Av. Pres. Castelo Branco, s/n - Maracanã, Rio de Janeiro - RJ</string>
+					<key>tipo</key>
+					<string>Estádio de futebol</string>
+					<key>nota</key>
+					<string>4.6</string>
+					<key>telefone</key>
+					<string>0800 062 7222</string>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

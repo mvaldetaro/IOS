@@ -1,0 +1,48 @@
+
+/* Class = "UIButton"; normalTitle = "Navegar"; ObjectID = "6kH-ns-I2v"; */
+"6kH-ns-I2v.normalTitle" = "Navegar";
+
+/* Class = "UILabel"; text = "telefone"; ObjectID = "7BU-xl-Pp5"; */
+"7BU-xl-Pp5.text" = "telefone";
+
+/* Class = "UIViewController"; title = "Detalhes"; ObjectID = "Hr0-A5-o7c"; */
+"Hr0-A5-o7c.title" = "Detalhes";
+
+/* Class = "UILabel"; text = "telefone"; ObjectID = "Kbw-FX-Pcx"; */
+"Kbw-FX-Pcx.text" = "telefone";
+
+/* Class = "UILabel"; text = "nota"; ObjectID = "LFl-lH-Pi4"; */
+"LFl-lH-Pi4.text" = "nota";
+
+/* Class = "UILabel"; text = "tipo"; ObjectID = "Nq0-7w-YQK"; */
+"Nq0-7w-YQK.text" = "tipo";
+
+/* Class = "UILabel"; text = "Nome"; ObjectID = "OX2-Ou-CBy"; */
+"OX2-Ou-CBy.text" = "Nome";
+
+/* Class = "UILabel"; text = "descricao"; ObjectID = "Pew-Wa-jXW"; */
+"Pew-Wa-jXW.text" = "descricao";
+
+/* Class = "UINavigationItem"; title = "Bairros"; ObjectID = "UoE-Ce-dHM"; */
+"UoE-Ce-dHM.title" = "Bairros";
+
+/* Class = "UILabel"; text = "Endereço"; ObjectID = "Vpg-V7-oyt"; */
+"Vpg-V7-oyt.text" = "Endereço";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Y2C-W6-zve"; */
+"Y2C-W6-zve.text" = "Label";
+
+/* Class = "UILabel"; text = "nota"; ObjectID = "fk0-4L-c6l"; */
+"fk0-4L-c6l.text" = "nota";
+
+/* Class = "UILabel"; text = "tipo"; ObjectID = "nyQ-mE-G04"; */
+"nyQ-mE-G04.text" = "tipo";
+
+/* Class = "UILabel"; text = "Nome"; ObjectID = "oBe-Vs-nXG"; */
+"oBe-Vs-nXG.text" = "Nome";
+
+/* Class = "UILabel"; text = "Endereço"; ObjectID = "skz-5f-JS8"; */
+"skz-5f-JS8.text" = "Endereço";
+
+/* Class = "UILabel"; text = "description"; ObjectID = "uwo-tG-gK2"; */
+"uwo-tG-gK2.text" = "description";

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>carros</key>
+	<array>
+		<string>Focus</string>
+		<string>EcoSport</string>
+		<string>Fiesta</string>
+		<string>Ka</string>
+		<string>Golf</string>
+		<string>Gol</string>
+		<string>Jetta</string>
+		<string>Palio</string>
+		<string>Uno</string>
+		<string>Celta</string>
+		<string>Cobalt</string>
+		<string>Onix</string>
+		<string>Prisma</string>
+		<string>Corolla</string>
+		<string>Civic</string>
+	</array>
+</dict>
+</plist>

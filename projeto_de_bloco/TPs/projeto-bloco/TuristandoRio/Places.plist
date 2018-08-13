@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>places</key>
+	<array>
+		<dict>
+			<key>name</key>
+			<string>Cristo Redentor</string>
+			<key>image</key>
+			<string>imagem_cristo_redentor.jpg</string>
+			<key>description</key>
+			<string>Conehcida como símbolo do Brasil no exterior.</string>
+			<key>address</key>
+			<string>Rua Cosme Velho, 51, Cosme Velho, Rio de Janeiro - RJ</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Forte de Copacabana</string>
+			<key>image</key>
+			<string>imagem_forte_copacabana.jpg</string>
+			<key>description</key>
+			<string>O forte está localizado em um dos extremos da Praia de Copacabana</string>
+			<key>address</key>
+			<string>Praça Cel.Eugênio Franco, Coapcabana, Rio de Janeiro</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Pão de Açúcar</string>
+			<key>image</key>
+			<string>imagem_pao_de_acucar.jpg</string>
+			<key>description</key>
+			<string>Entrando no Bondinho que sai da Praia Vermelha.</string>
+			<key>address</key>
+			<string>Avenida Pasteur, 520, Urca, Rio de Janeiro - RJ</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Jardim Botânico</string>
+			<key>image</key>
+			<string>imagem_jardim_botanico.jpg</string>
+			<key>description</key>
+			<string>O parque abriga várias espécies das floras brasileiras e estrangeiras</string>
+			<key>address</key>
+			<string>Rua Jardim Botânico, 1008, Jardim Botânico, Rio de Janeiro - RJ</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Biblioteca Nacional</string>
+			<key>image</key>
+			<string>imagem_biblioteca_nacional.jpg</string>
+			<key>description</key>
+			<string>A maior biblioteca da América Latina existe há mais de 200 anos</string>
+			<key>address</key>
+			<string>Av.Rio Branco, 219, Centro, Rio de Janeiro - RJ</string>
+		</dict>
+	</array>
+</dict>
+</plist>

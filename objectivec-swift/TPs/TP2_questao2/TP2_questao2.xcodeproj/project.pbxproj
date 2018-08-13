@@ -1,0 +1,275 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		074822391CD51F47002D0D7B /* TipoRefeicao.swift in Sources */ = {isa = PBXBuildFile; fileRef = 074822381CD51F47002D0D7B /* TipoRefeicao.swift */; };
+		0748223B1CD528DA002D0D7B /* ContabilidadeRestaurante.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0748223A1CD528DA002D0D7B /* ContabilidadeRestaurante.swift */; };
+		0748223D1CD5308F002D0D7B /* ContadorRestaurante.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0748223C1CD5308F002D0D7B /* ContadorRestaurante.swift */; };
+		07C238781CCD42A6003DA891 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07C238771CCD42A6003DA891 /* main.swift */; };
+		07E9A6941CCD51C2008C2FE2 /* Cozinha.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07E9A6921CCD48C7008C2FE2 /* Cozinha.swift */; };
+		07E9A6951CCD5235008C2FE2 /* TP2_questao2 in Sources */ = {isa = PBXBuildFile; fileRef = 07C238741CCD42A6003DA891 /* TP2_questao2 */; };
+		07E9A6AB1CCD5554008C2FE2 /* Prato.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07E9A6901CCD47BB008C2FE2 /* Prato.swift */; };
+		07E9A6AC1CCD5557008C2FE2 /* Produto.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07C2387E1CCD42D6003DA891 /* Produto.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXCopyFilesBuildPhase section */
+		07C238721CCD42A6003DA891 /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+/* End PBXCopyFilesBuildPhase section */
+
+/* Begin PBXFileReference section */
+		074822381CD51F47002D0D7B /* TipoRefeicao.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TipoRefeicao.swift; sourceTree = "<group>"; };
+		0748223A1CD528DA002D0D7B /* ContabilidadeRestaurante.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ContabilidadeRestaurante.swift; sourceTree = "<group>"; };
+		0748223C1CD5308F002D0D7B /* ContadorRestaurante.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ContadorRestaurante.swift; sourceTree = "<group>"; };
+		07C238741CCD42A6003DA891 /* TP2_questao2 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = TP2_questao2; sourceTree = BUILT_PRODUCTS_DIR; };
+		07C238771CCD42A6003DA891 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		07C2387E1CCD42D6003DA891 /* Produto.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Produto.swift; sourceTree = "<group>"; };
+		07E9A6901CCD47BB008C2FE2 /* Prato.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Prato.swift; sourceTree = "<group>"; };
+		07E9A6921CCD48C7008C2FE2 /* Cozinha.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Cozinha.swift; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		07C238711CCD42A6003DA891 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		07C2386B1CCD42A6003DA891 = {
+			isa = PBXGroup;
+			children = (
+				07C238761CCD42A6003DA891 /* TP2_questao2 */,
+				07C238751CCD42A6003DA891 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		07C238751CCD42A6003DA891 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				07C238741CCD42A6003DA891 /* TP2_questao2 */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		07C238761CCD42A6003DA891 /* TP2_questao2 */ = {
+			isa = PBXGroup;
+			children = (
+				07C238771CCD42A6003DA891 /* main.swift */,
+				07C2387E1CCD42D6003DA891 /* Produto.swift */,
+				07E9A6901CCD47BB008C2FE2 /* Prato.swift */,
+				07E9A6921CCD48C7008C2FE2 /* Cozinha.swift */,
+				074822381CD51F47002D0D7B /* TipoRefeicao.swift */,
+				0748223A1CD528DA002D0D7B /* ContabilidadeRestaurante.swift */,
+				0748223C1CD5308F002D0D7B /* ContadorRestaurante.swift */,
+			);
+			path = TP2_questao2;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		07C238731CCD42A6003DA891 /* TP2_questao2 */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 07C2387B1CCD42A6003DA891 /* Build configuration list for PBXNativeTarget "TP2_questao2" */;
+			buildPhases = (
+				07C238701CCD42A6003DA891 /* Sources */,
+				07C238711CCD42A6003DA891 /* Frameworks */,
+				07C238721CCD42A6003DA891 /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = TP2_questao2;
+			productName = TP2_questao2;
+			productReference = 07C238741CCD42A6003DA891 /* TP2_questao2 */;
+			productType = "com.apple.product-type.tool";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		07C2386C1CCD42A6003DA891 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastSwiftUpdateCheck = 0730;
+				LastUpgradeCheck = 0730;
+				ORGANIZATIONNAME = infnet;
+				TargetAttributes = {
+					07C238731CCD42A6003DA891 = {
+						CreatedOnToolsVersion = 7.3;
+					};
+				};
+			};
+			buildConfigurationList = 07C2386F1CCD42A6003DA891 /* Build configuration list for PBXProject "TP2_questao2" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 07C2386B1CCD42A6003DA891;
+			productRefGroup = 07C238751CCD42A6003DA891 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				07C238731CCD42A6003DA891 /* TP2_questao2 */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXSourcesBuildPhase section */
+		07C238701CCD42A6003DA891 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				0748223B1CD528DA002D0D7B /* ContabilidadeRestaurante.swift in Sources */,
+				07E9A6AB1CCD5554008C2FE2 /* Prato.swift in Sources */,
+				074822391CD51F47002D0D7B /* TipoRefeicao.swift in Sources */,
+				07E9A6941CCD51C2008C2FE2 /* Cozinha.swift in Sources */,
+				0748223D1CD5308F002D0D7B /* ContadorRestaurante.swift in Sources */,
+				07E9A6951CCD5235008C2FE2 /* TP2_questao2 in Sources */,
+				07E9A6AC1CCD5557008C2FE2 /* Produto.swift in Sources */,
+				07C238781CCD42A6003DA891 /* main.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		07C238791CCD42A6003DA891 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "-";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.11;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = macosx;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		07C2387A1CCD42A6003DA891 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "-";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.11;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = macosx;
+			};
+			name = Release;
+		};
+		07C2387C1CCD42A6003DA891 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		07C2387D1CCD42A6003DA891 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		07C2386F1CCD42A6003DA891 /* Build configuration list for PBXProject "TP2_questao2" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				07C238791CCD42A6003DA891 /* Debug */,
+				07C2387A1CCD42A6003DA891 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		07C2387B1CCD42A6003DA891 /* Build configuration list for PBXNativeTarget "TP2_questao2" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				07C2387C1CCD42A6003DA891 /* Debug */,
+				07C2387D1CCD42A6003DA891 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 07C2386C1CCD42A6003DA891 /* Project object */;
+}
